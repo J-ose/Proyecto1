@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(247, 238, 238, 0);
+}
+
+.navbar-brand{
+    font-family: 'sans-serif', Times, Helvetica;
+    color: #0a0a0a;
+}
+
+.container-text{
+    background-color: black;
+    color: #fff;
+}
+
+.card-body{
+    color:#fff;
+}
+
+span{
+    color: #0a0a0a;
+    font-family: 'sans-serif', Times, Helvetica;
+    font-size: 1.5rem;
+}
+
